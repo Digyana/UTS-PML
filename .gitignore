@@ -1,0 +1,19 @@
+# Dataset
+data/*
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environment
+.venv/
+venv/
