@@ -4,7 +4,7 @@ Project pengganti UTS mata kuliah Pembelajaran Mesin Lanjut.
 
 Project ini melakukan klasifikasi aktivitas manusia berbasis WiFi Channel State Information (CSI) menggunakan dataset UT-HAR.
 
-## Team Members
+## Kelompok 1
 
 1. Zaviandra Chalil (2311511009)
 2. Alfin Pratama Putra (2311511011)
